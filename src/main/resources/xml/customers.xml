@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<customers>
+    <customer>
+        <firstName>bbbb</firstName>
+        <lastName>ddddddddddddddddddddddddddddddd</lastName>
+        <nationalCode>7686754325</nationalCode>
+        <customerNumber>768798</customerNumber>
+        <isActive>true</isActive>
+    </customer>
+    <customer>
+        <firstName>u</firstName>
+        <lastName>u</lastName>
+        <nationalCode>8897656783</nationalCode>
+        <customerNumber>299971</customerNumber>
+        <isActive>true</isActive>
+    </customer>
+    <customer>
+        <firstName>forooz</firstName>
+        <lastName>iraji</lastName>
+        <nationalCode>4421046582</nationalCode>
+        <customerNumber>123456</customerNumber>
+        <isActive>true</isActive>
+    </customer>
+    <customer>
+        <firstName>oooo</firstName>
+        <lastName>oo</lastName>
+        <nationalCode>4545454545</nationalCode>
+        <customerNumber>973473</customerNumber>
+        <isActive>true</isActive>
+    </customer>
+    <customer>
+        <firstName>x</firstName>
+        <lastName>y</lastName>
+        <nationalCode>23232323</nationalCode>
+        <customerNumber>345434</customerNumber>
+        <isActive>true</isActive>
+    </customer>
+    <customer>
+        <firstName>what</firstName>
+        <lastName>whatis</lastName>
+        <nationalCode>9090909090</nationalCode>
+        <customerNumber>157453</customerNumber>
+        <isActive>false</isActive>
+    </customer>
+</customers>

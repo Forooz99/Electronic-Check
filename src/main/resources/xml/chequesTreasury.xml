@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<checks>
+    <check>
+        <id>1</id>
+    </check>
+    <check>
+        <id>2</id>
+    </check>
+
+    <check>
+        <id>6</id>
+    </check>
+</checks>
